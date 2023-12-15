@@ -1,3 +1,2 @@
 # Blog
-Simple Django Application
-UI - Tailwind CSS
+Simple Django Application, UI - Tailwind CSS
